@@ -1,93 +1,4 @@
 System,Publisher,Sale,Rating
-PC,1C Company,0.060000000000000005,79.5
-PC,2D Boy,0.04,90
-PC,505 Games,0.28,80.5
-PC,Activision,38.69,80.06818181818181
-PC,Activision Blizzard,0.47,87
-PC,Ascaron Entertainment GmbH,0.1,73
-PC,Aspyr,0.02,79
-PC,Atari,2.22,75.55
-PC,Bethesda Softworks,9.78,77.23076923076923
-PC,Bigben Interactive,0.01,65
-PC,bitComposer Games,0.06,69
-PC,Blue Byte,0.01,91
-PC,Bohemia Interactive,0.11,74
-PC,Capcom,0.68,69.07142857142857
-PC,CCP,0.2,69
-PC,CDV Software Entertainment,0.01,80
-PC,City Interactive,0.73,47.666666666666664
-PC,Codemasters,1.16,75.5
-PC,Codemasters Online,0.02,85
-PC,Crimson Cow,0.02,75
-PC,Deep Silver,1.8900000000000001,70.05555555555556
-PC,Destineer,0.01,61
-PC,Disney Interactive Studios,0.14,69.66666666666667
-PC,DreamCatcher Interactive,0.06,73.5
-PC,DTP Entertainment,0.28,64.83333333333333
-PC,Eidos Interactive,1.72,77.5
-PC,Electronic Arts,60.44,78.39252336448598
-PC,Empire Interactive,0.05,72
-PC,Evolved Games,0.02,39
-PC,Focus Home Interactive,2.09,69.92857142857143
-PC,Funcom,0.2,78.5
-PC,Gamecock,0.02,45
-PC,Gathering of Developers,0.17,78.33333333333333
-PC,GOA,0.02,86
-PC,Graphsim Entertainment,0.02,90
-PC,Havas Interactive,0.13,88
-PC,HMH Interactive,0.1,82
-PC,Iceberg Interactive,0.04,56
-PC,Insomniac Games,0.03,73
-PC,Interplay,0.04,87
-PC,inXile Entertainment,0.1,81
-PC,JoWood Productions,0.37,65.2
-PC,Just Flight,0.03,64
-PC,Kalypso Media,0.88,67.8
-PC,Koch Media,0.1,54.5
-PC,Konami Digital Entertainment,0.4,73.44444444444444
-PC,Lighthouse Interactive,0.01,62
-PC,LucasArts,1.02,73.4
-PC,Mastertronic,0.05,76
-PC,MC2 Entertainment,0.04,78
-PC,Microids,0.05,76.5
-PC,Microsoft Game Studios,2.09,80.17391304347827
-PC,Midway Games,0.06,83
-PC,Milestone S.r.l,0.01,78
-PC,Milestone S.r.l.,0.03,68
-PC,Monte Christo Multimedia,0.04,75
-PC,N/A,0.16,47
-PC,Namco Bandai Games,2.01,83.57142857142857
-PC,NCSoft,2.54,85.8
-PC,Nobilis,0.01,80
-PC,Nordic Games,0.21,82
-PC,Number None,0.03,90
-PC,Paradox Interactive,0.52,70.53846153846153
-PC,Pinnacle,0.03,87
-PC,Playlogic Game Factory,0.02,63
-PC,PopCap Games,0.2,80.75
-PC,Rondomedia,0.02,67
-PC,Russel,1.12,86
-PC,Sega,9.32,77.36363636363636
-PC,Slightly Mad Studios,0.13,83
-PC,Sony Online Entertainment,0.23,72
-PC,SouthPeak Games,0.03,72
-PC,Square Enix,1.95,76.3529411764706
-PC,Strategy First,0.03,74
-PC,Sunflowers,0.03,77
-PC,Take-Two Interactive,12.17,82.6842105263158
-PC,Team17 Software,0.05,79
-PC,THQ,2.7,78.18181818181819
-PC,Touchstone,0.01,65
-PC,Trion Worlds,0.21,64
-PC,Tripwire Interactive,0.14,76
-PC,Ubisoft,12.59,74.62711864406779
-PC,Unknown,1.1500000000000001,73.5
-PC,Valve Software,1.12,92
-PC,Virgin Interactive,0.02,75
-PC,Visco,0.02,51
-PC,Vivendi Games,8.15,80.26315789473684
-PC,Wargaming.net,0.29,80
-PC,Warner Bros. Interactive Entertainment,2.56,76.4
 PLAYSTATION,10TACLE Studios,0.02,42
 PLAYSTATION,3DO,2.4,53.357142857142854
 PLAYSTATION,505 Games,6.84,67.70967741935483
@@ -216,7 +127,7 @@ PLAYSTATION,Sega,57.99,69.08823529411765
 PLAYSTATION,Slightly Mad Studios,1.09,83
 PLAYSTATION,SNK,0.07,73
 PLAYSTATION,Sold Out,0.03,78
-PLAYSTATION,Sony Computer Entertainment,378.34,75.10204081632654
+PLAYSTATION,Sony Computer Entertainment,379.61,75.0813559322034
 PLAYSTATION,Sony Computer Entertainment America,1.15,82
 PLAYSTATION,Sony Computer Entertainment Europe,15.15,81
 PLAYSTATION,Sony Online Entertainment,3.22,76.16666666666667
